@@ -1,0 +1,103 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    font-family: monospace;
+}
+
+
+.row .logo h2
+{     
+     font-family: Lucida Console;
+     color: midnightblue;
+     font-size: 60px;
+     margin-top: -107px;
+     margin-left: 220px;
+}
+
+.row img
+{
+    max-width: 12%;
+    max-height: 12%;
+    border-radius: 50%;
+}
+
+
+.hero h1
+{
+    color: gray;
+
+    font-weight: bold;
+    font-size: 70px;
+    padding-left: 150px;
+    margin-top: 200px;
+    
+}
+
+.hero p
+{
+    color:gray;
+
+    font-weight: bold;
+    font-size: 70px;
+    padding-left: 150px;
+    margin-top: -13px;
+    
+}
+
+.hero .more h1
+{
+    color: gray;
+    font-family: monospace;
+    font-weight: lighter;
+    font-size: 24px;
+    padding-left: 150px;
+    margin-top: 25px;
+    
+}
+
+.hero .more p
+{
+    color: gray;
+    font-family: monospace;
+    font-weight: lighter;
+    font-size: 24px;
+    padding-left: 150px;
+    margin-top: 5px;
+    
+}
+
+header
+{
+    background-color:gainsboro;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.button
+{
+    margin-top: 40px;
+    margin-left: 150px;
+}
+
+.btn
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.btn-one
+{
+    background-color: rgb(10, 95, 165);
+    font-family: "Roboto", sans-serif;
+}
